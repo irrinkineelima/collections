@@ -1,0 +1,9 @@
+2020-03-07 11:50:56 DEBUG App:17 - [2,3,5,7]
+2020-03-07 11:50:56 DEBUG App:19 - [2,3,5]
+2020-03-07 11:50:56 DEBUG App:20 - 2
+2020-03-07 11:50:56 DEBUG App:21 - 3
+2020-03-07 11:50:56 DEBUG App:22 - 3
+2020-03-07 11:50:56 DEBUG App:28 - [doctor,teacher,actor,choreographer]
+2020-03-07 11:50:56 DEBUG App:29 - 2
+2020-03-07 11:50:56 DEBUG App:30 - 4
+2020-03-07 11:50:56 DEBUG App:32 - [doctor,teacher,choreographer]
